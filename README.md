@@ -6,7 +6,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Al-Faith/Al-Faith/main/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Al-Faith/Al-Faith/main/divider.svg" width="100%"/>
 
 ### who's this
 
@@ -14,7 +14,7 @@ I don't have one lane. Something catches my eye, I poke at it until it makes sen
 
 Right now that's **Flutter/Dart**, dipping into **Python for AI tooling**, and **MySQL** whenever data needs a home, but ask me again in a month, it'll probably be different.
 
-<img src="https://raw.githubusercontent.com/Al-Faith/Al-Faith/main/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Al-Faith/Al-Faith/main/divider.svg" width="100%"/>
 
 ### the loop
 
@@ -38,7 +38,7 @@ Right now that's **Flutter/Dart**, dipping into **Python for AI tooling**, and *
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Al-Faith/Al-Faith/main/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Al-Faith/Al-Faith/main/divider.svg" width="100%"/>
 
 ### stack, loosely
 
@@ -48,7 +48,7 @@ Right now that's **Flutter/Dart**, dipping into **Python for AI tooling**, and *
 <sub><code>AI tooling</code> &middot; <code>prompt experiments</code> &middot; <code>whatever's next</code></sub>
 </div>
 
-<img src="https://raw.githubusercontent.com/Al-Faith/Al-Faith/main/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Al-Faith/Al-Faith/main/divider.svg" width="100%"/>
 
 ### this week's contribution snake
 
@@ -62,7 +62,7 @@ Right now that's **Flutter/Dart**, dipping into **Python for AI tooling**, and *
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Al-Faith/Al-Faith/main/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Al-Faith/Al-Faith/main/divider.svg" width="100%"/>
 
 ### stats
 
